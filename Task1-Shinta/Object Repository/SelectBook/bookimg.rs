@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bookimg</name>
+   <tag></tag>
+   <elementGuidId>3b00d250-ab45-4f46-9621-b0f9c58216e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@id='${imgSearch}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@id='${imgSearch}']</value>
+      <webElementGuid>0bacb3f0-718b-480a-9b1f-bed1b0ae3180</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

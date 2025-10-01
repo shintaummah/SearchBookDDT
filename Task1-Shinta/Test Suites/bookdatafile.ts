@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>bookdatafile</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c5d48be9-571f-414c-beff-fd18fb5bc63d</testSuiteGuid>
+   <testCaseLink>
+      <guid>fd485b74-82fa-49e7-a63f-b2beaaf72d55</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/searchbookDDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>24275704-04b1-49fb-bf67-cdd6fc3c66c6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/searchBook</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>24275704-04b1-49fb-bf67-cdd6fc3c66c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testType</value>
+         <variableId>f7f087d5-1618-45dc-90c4-f40be77281de</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24275704-04b1-49fb-bf67-cdd6fc3c66c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>bookTitle</value>
+         <variableId>d1e8c71f-d14f-49a0-a800-46e0b291e05e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24275704-04b1-49fb-bf67-cdd6fc3c66c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>author</value>
+         <variableId>9aad055e-7f65-46a9-a4f1-4f985c202a62</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

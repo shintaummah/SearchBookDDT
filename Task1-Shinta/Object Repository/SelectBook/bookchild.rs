@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bookchild</name>
+   <tag></tag>
+   <elementGuidId>971c8dc9-c7c9-4141-8828-f806103feef1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul/child::li[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul/child::li[6]</value>
+      <webElementGuid>a7e336e9-a4ac-46e3-bcf7-cf20290d3ada</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

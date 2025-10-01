@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchbookDDT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6a1cd49-6062-4a9e-85f6-a90470224a77</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7f087d5-1618-45dc-90c4-f40be77281de</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1e8c71f-d14f-49a0-a800-46e0b291e05e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9aad055e-7f65-46a9-a4f1-4f985c202a62</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>f7f087d5-1618-45dc-90c4-f40be77281de</id>
+      <masked>false</masked>
+      <name>testType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Automation\r\n'</defaultValue>
+      <description></description>
+      <id>d1e8c71f-d14f-49a0-a800-46e0b291e05e</id>
+      <masked>false</masked>
+      <name>bookTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Greg Paskal'</defaultValue>
+      <description></description>
+      <id>9aad055e-7f65-46a9-a4f1-4f985c202a62</id>
+      <masked>false</masked>
+      <name>author</name>
+   </variable>
+</TestCaseEntity>

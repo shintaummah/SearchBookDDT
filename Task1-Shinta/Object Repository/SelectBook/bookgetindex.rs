@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bookgetindex</name>
+   <tag></tag>
+   <elementGuidId>9aedf9f2-f100-4753-a2e0-f8388ea860c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='productList']/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='productList']/li[4]</value>
+      <webElementGuid>d7ef5fec-f734-4305-94cc-8d4fec8c80db</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

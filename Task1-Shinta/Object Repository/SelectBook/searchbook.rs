@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchbook</name>
+   <tag></tag>
+   <elementGuidId>e80590ae-9efc-4bf1-abdd-18ce6e3f525d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'searchBar' and @data-type = 'search']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchBar</value>
+      <webElementGuid>3ee7f6f9-1b36-401a-aa36-6e0108a63bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>0536fddd-8dcc-4360-bea1-d9c8c02c60b2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
